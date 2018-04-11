@@ -8,8 +8,13 @@
   },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node start.js"
   },
   "author": "Loic Antoine-Gombeaud",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "random-seed": "^0.3.0",
+    "strftime": "^0.10.0"
+  }
 }

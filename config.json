@@ -1,7 +1,6 @@
 {
-  "output_file": "access.log",
-  "append": true,
-  "domain": "https://www.loicag.com",
+  "outputFile": "access.log",
+  "append": false,
   "pages": [
     "user/alice",
     "user/bob",
@@ -14,5 +13,6 @@
     "help",
     "help/faq"
   ],
-  "probability": 0.01
+  "probability": 0.00001,
+  "consoleOutput": true
 }
