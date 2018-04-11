@@ -1,0 +1,18 @@
+{
+  "output_file": "access.log",
+  "append": true,
+  "domain": "https://www.loicag.com",
+  "pages": [
+    "user/alice",
+    "user/bob",
+    "user/charles",
+    "user/daisy",
+    "profile/edit",
+    "profile/posts",
+    "messages/bob",
+    "messages/daisy",
+    "help",
+    "help/faq"
+  ],
+  "probability": 0.01
+}
