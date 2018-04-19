@@ -1,6 +1,6 @@
 {
   "name": "loicag-log-generator",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Generates a w3c-formatted HTTP access log",
   "repository": {
     "type": "git",
