@@ -13,6 +13,6 @@
     "help",
     "help/faq"
   ],
-  "probability": 0.00001,
-  "consoleOutput": true
+  "probability": 0.000001,
+  "consoleOutput": false
 }
